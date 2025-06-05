@@ -1,2 +1,0 @@
-2025-06-05 01:59:42,601: Special Key Key.ctrl pressed
-2025-06-05 01:59:47,144: Key c pressed

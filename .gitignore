@@ -1,16 +1,10 @@
-# Ignore build artifacts and PyInstaller output
 build/
 dist/
+keylogs/
+*.log
+*.key
 *.spec
 *.bin
-*.bin.*
-*.key
-*.log
 *.txt
-keylogs/
-__pycache__/
 venv/
-
-# Ignore editor and environment settings
-.vscode/
-.idea/
+__pycache__/

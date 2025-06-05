@@ -1,4 +1,0 @@
-2025-06-05 01:57:51,826: Special Key Key.space pressed
-2025-06-05 01:57:53,338: Special Key Key.backspace pressed
-2025-06-05 01:58:43,760: Special Key Key.ctrl pressed
-2025-06-05 01:58:43,986: Key c pressed
